@@ -1,0 +1,13 @@
+
+
+Create (Maken): Met dit recht kun je nieuwe elementen in de database aanmaken, zoals tabellen, views of andere database-objecten. Dit is nuttig wanneer je nieuwe structuren nodig hebt om gegevens op te slaan of te beheren.
+
+Wanneer je dit nodig hebt: Je hebt dit recht nodig als je nieuwe categorieën gegevens in de database wilt introduceren, bijvoorbeeld door een nieuwe tabel te maken om klantinformatie op te slaan.
+
+Wat een hacker hiermee zou kunnen doen: Een hacker met dit recht kan potentieel schadelijke database-objecten aanmaken, wat gegevens en beveiliging in gevaar kan brengen.
+
+Grant (Toekennen): Dit recht geeft je de mogelijkheid om andere gebruikers of database-rollen specifieke toegangsrechten toe te geven. Het is handig wanneer je rechten aan andere gebruikers wilt verdelen, zoals het toestaan van lees of schrijftoegang tot bepaalde delen van de database.
+
+Wanneer je dit nodig hebt: Gebruik dit recht wanneer je andere mensen toegang wilt geven tot specifieke delen van de database, zoals collega's die bepaalde taken moeten uitvoeren.
+
+Wat een hacker hiermee zou kunnen doen: Een hacker met dit recht kan ongeautoriseerde toegang verlenen aan andere gebruikers, waardoor de beveiliging van de database wordt geschonden en mogelijk gevoelige informatie wordt blootgesteld.
