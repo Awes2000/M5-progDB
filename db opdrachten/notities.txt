@@ -1,0 +1,7 @@
+Straatnaam: Johan Huizingalaan (String)
+Postcode: 1066JS (INT)
+Stad: Amsterdam (String)
+Tel: 073 615 7777 (INT)
+Provincie: Noord-Holland (STRING)
+
+in adresID column gaan we de nummers zetten (INTEGERS) en variables die hierbij thuishoren
